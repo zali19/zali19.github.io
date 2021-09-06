@@ -1,0 +1,63 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container-fluid {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.jumbotron {
+  background-color: white;
+  padding: 0;
+  margin-bottom: 0px;
+  padding-top: 150px;
+}
+
+span {
+  font-family: "Squada One", cursive;
+  font-size: 90px;
+}
+
+.font1 {
+  color: #4285f4;
+}
+
+.font2 {
+  color: #db4437;
+}
+
+.font3 {
+  color: #f4b400;
+}
+
+.font4 {
+  color: #4285f4;
+}
+
+.font5 {
+  color: #0f9d58;
+}
+
+.font6 {
+  color: #db4437;
+}
+
+.input-group {
+  justify-content: center;
+}
+
+.input-group-text {
+  background-color: #fff;
+  border-right: none;
+}
+
+.icon {
+  max-width: 20px;
+}
+
+input {
+  max-width: 500px;
+  border-left: none !important;
+}
