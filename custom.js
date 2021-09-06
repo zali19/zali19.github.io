@@ -1,6 +1,6 @@
 var typed = new Typed("#typed", {
   strings: [
-    "Selamat Datang di ahmadgozali.github.io",
+    "Selamat Datang di zali19.github.io",
     "Nama saya Ahmad Gozali",
     "Saya seorang Mahasiswa dan Pekerja",
   ],
